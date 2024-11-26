@@ -1,14 +1,14 @@
 ### Hi There! 👋
 
-I'm Bryan Munera, a HVAC Technician with a passion for data science, machine learning and all things tech. I'm thrilled by the power of data to drive innovation and make informed decisions. 
+I'm Bryan Munera, a cloud computing student with a passion for data science, machine learning, and all things tech. I'm thrilled by the power of data to drive innovation and make informed decisions.
 
 🚀 Here's What I'm About:
 
-- **Data Enthusiast:** I'm constantly exploring the dynamic world of data, seeking insights and turning them into actionable knowledge.
+- **Cloud Computing Enthusiast:** Building scalable, efficient solutions in the cloud, focusing on AWS and leveraging certifications to design impactful architectures.
 
-- **Machine Learning Enthusiast:** I love diving into algorithms and predictive models, using them to solve real-world challenges.
+- **Data Enthusiast:** Exploring the dynamic world of data, seeking insights and turning them into actionable knowledge.
 
-- **Web Development Enthusiast:** I'm also into front-end web development, creating user-friendly interfaces to showcase data solutions.
+- **Machine Learning Enthusiast:** Diving into algorithms and predictive models to solve real-world challenges.
 
 💬 Let's Connect:
 
